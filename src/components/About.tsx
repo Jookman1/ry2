@@ -16,7 +16,7 @@ const About = () => {
                 With over a decade of experience in the security industry, Kairo Security Ltd has established itself as a leader in providing comprehensive security solutions. Our expertise spans across various sectors, from high-profile events and festivals to corporate security management.
               </p>
               <p>
-                Our test commitment to excellence is reflected in our meticulously selected team of security professionals, each bringing unique expertise and dedication to their role. We pride ourselves on delivering customized security solutions that not only meet but exceed our clients' expectations.
+                Our commitment to excellence is reflected in our meticulously selected team of security professionals, each bringing unique expertise and dedication to their role. We pride ourselves on delivering customized security solutions that not only meet but exceed our clients' expectations.
               </p>
               <div className="grid grid-cols-2 gap-6 mt-8">
                 <div className="flex items-center space-x-3">
